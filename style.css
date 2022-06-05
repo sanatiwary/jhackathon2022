@@ -1,0 +1,99 @@
+.navbar{
+    background-color: #CBC0D3;
+    font-family: 'IM Fell English SC', serif;
+    font-size: 25px;
+}
+
+li a:hover {
+    color: skyblue;
+    text-shadow: 2px 2px #9F86C0;
+}
+li a {
+    color: #fbfefb !important;
+}
+
+a {
+    color: #9F86C0 !important;
+}
+
+a:hover {
+    color: skyblue;
+    text-shadow: 2px 2px #FEEAFA;
+}
+
+.la-1 {
+    margin-left: 125px;
+}
+
+.bg-1 {
+    font-family: 'IM Fell English SC', serif;
+    width: 800px;
+    font-size: 25px;
+}
+
+.dy-1 {
+    font-family: 'Oswald', serif;
+    width: 800px;
+    font-size: 22px;
+    padding-bottom: 100px;
+}
+
+.m-1 {
+    padding-left: 300px;
+    font-family: 'Oswald', serif;
+    width: 80%;
+    font-size: 22px;
+    padding-bottom: 100px;
+}
+
+h4{
+    font-family: 'IM Fell English SC', serif;
+}
+
+.gs-1 {
+    font-family: 'IM Fell English SC', serif;
+}
+
+.p-1 {
+    font-size: 18px;
+}
+
+.p-4 {
+    font-family: 'IM Fell English SC', serif;
+    font-size: 18px;
+    background-color: #8E9AAF;
+}
+
+.textarea {
+    border: 0px;
+    border-bottom: 2px solid black;
+    font-family: 'IM Fell English SC', serif;
+    font-size: inherit;
+    padding: 1px 9px;
+    outline: 0;
+    
+  }
+
+#footer {
+    position:fixed;
+    bottom:0;
+    left:0;
+    width: 100%;
+    margin-top: 20px;
+   }
+
+/*
+hr.h-1 {
+    width: 1000px;
+    border-top: 2px solid #CBC0D3;
+}
+
+span {
+    border: 0;
+    outline: 0;
+    background: transparent;
+    border-bottom: 2px solid black;
+    width: 80%;
+    min-height: 80%;
+}
+*/
